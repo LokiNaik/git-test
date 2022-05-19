@@ -84,11 +84,4 @@ public class Student {
 		return "Name : " + name + "\tRoll Number : " + rollno + "\tEmail : " + email + "\tAvergae Marks : " + calc_average();
 	}
 	
-	
-	/*
-	 * public static void main(String[] args) {
-	 * 
-	 * Student s = new Student(); s.setName("SS"); s.setEmail("s@abc");
-	 * s.setRollno(101); System.out.println(s); }
-	 */
 }
